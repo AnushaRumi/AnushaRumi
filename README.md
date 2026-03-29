@@ -17,19 +17,20 @@
 ### 🛠️ Tech Stack
 
 #### 🌐 Frontend
-- HTML5, CSS3, JavaScript
-- React.js
+- HTML5, CSS3, JavaScript,Python,C++
+- React.js,Next.js
 
 #### ⚙️ Backend
 - Node.js, Express.js
 
 #### 🗄️ Database
-- MongoDB / MySQL
+- MongoDB, MySQL
 
 #### 🔧 Tools
 - Git & GitHub
 - VS Code
 - Postman
+- Docker
 
 ---
 
@@ -52,8 +53,8 @@
 ---
 
 ### 🌍 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
+- 💼 LinkedIn: (www.linkedin.com/in/anusha-santra-483b93297)
+- 📧 Email: (anushasantra18@gmail.com)
 
 ---
 
