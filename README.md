@@ -6,7 +6,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 3rd Year Student
+- 🎓 Final Year Student
 - 💻 Web Developer (Frontend + Backend)
 - 🌱 Currently learning **Full Stack Development & DSA**
 - 🤝 Open Source Contributor
